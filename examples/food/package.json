@@ -1,0 +1,15 @@
+{
+    "name": "food",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "kwuo"
+    },
+    "keywords": [],
+    "author": "Chidume Nnamdi <kurtwanger40@gmail.com>",
+    "license": "ISC"
+}
