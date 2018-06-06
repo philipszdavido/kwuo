@@ -30,3 +30,10 @@ describe('Food', () => {
         expect(food()).toBe('food');
     });
 });
+
+describe('', () => {
+    it('', () => {
+        const fn = kwuo.fn()
+        expect(fn).toBeCalled(true)
+    })
+})
