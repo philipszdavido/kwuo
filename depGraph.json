@@ -1,0 +1,22 @@
+{
+    "id": "bin/kwuo",
+    "dependencies": [{
+        "dependencies": [
+            { "name": "path", "packageDependency": true },
+            { "name": "fs", "packageDependency": true }, {
+                "dependencies": [
+                    { "name": "chalk", "packageDependency": true }
+                ],
+                "name": "./../",
+                "filePath": "C:\\wamp\\www\\developerse\\projects\\node_prjs\\kwuo\\lib",
+                "fileDependency": true
+            }
+        ],
+        "name": "../lib/cli/cli",
+        "filePath": "C:\\wamp\\www\\developerse\\projects\\node_prjs\\kwuo\\lib\\cli\\cli",
+        "fileDependency": true
+    }],
+    "name": "bin/kwuo",
+    "filePath": "bin/kwuo",
+    "fileDependency": true
+}

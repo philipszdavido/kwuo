@@ -29,11 +29,14 @@ describe('Food', () => {
     it("must return 'food'", () => {
         expect(food()).toBe('food');
     });
+    it("must return 'bark'", () => {
+        expect(food()).toBe('food');
+    });
 });
 
-describe('', () => {
+/*describe('', () => {
     it('', () => {
         const fn = kwuo.fn()
         expect(fn).toBeCalled(true)
     })
-})
+})*/
